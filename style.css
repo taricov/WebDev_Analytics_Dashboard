@@ -333,5 +333,5 @@ body.dark .home .text{
 
 
 body.dark .chart{
-    background-color: var(--text-color);
+    background-color: var(--text-color)
 }
